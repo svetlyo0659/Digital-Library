@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "type": "bg.codeacademy.spring.digitallibrary.config.FileStorageProperties",
+      "sourceType": "bg.codeacademy.spring.digitallibrary.config.FileStorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.upload-dir",
+      "type": "java.lang.String",
+      "sourceType": "bg.codeacademy.spring.digitallibrary.config.FileStorageProperties"
+    }
+  ],
+  "hints": []
+}
